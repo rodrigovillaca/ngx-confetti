@@ -1,0 +1,13 @@
+{
+    "name": "ngx-confetti",
+    "version": "1.0.3",
+    "dependencies": {
+        "canvas-confetti": "^1.0.3",
+        "intersection-observer": "^0.7.0",
+        "ng-in-viewport": "^6.0.3"
+    },
+    "peerDependencies": {
+        "@angular/common": "^8.2.14",
+        "@angular/core": "^8.2.14"
+    }
+}

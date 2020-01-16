@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-confetti": [
+        "dist/ngx-confetti"
+      ],
+      "ngx-confetti/*": [
+        "dist/ngx-confetti/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
